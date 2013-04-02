@@ -256,7 +256,7 @@
 		A170C7A11618AD8400A86A80 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FastLight/FastLight-Prefix.pch";
 				INFOPLIST_FILE = "FastLight/FastLight-Info.plist";
