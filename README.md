@@ -1,4 +1,4 @@
 FastLight
 =========
 
-FastLight client for iOS
+The fastest and simplest flashlight app for iPhone.
