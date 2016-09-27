@@ -146,6 +146,11 @@
 				CLASSPREFIX = FL;
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Andy LaVoy";
+				TargetAttributes = {
+					A170C77B1618AD8300A86A80 = {
+						DevelopmentTeam = 38X5WNVR2Q;
+					};
+				};
 			};
 			buildConfigurationList = A170C7761618AD8300A86A80 /* Build configuration list for PBXProject "FastLight" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -257,6 +262,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 38X5WNVR2Q;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FastLight/FastLight-Prefix.pch";
 				INFOPLIST_FILE = "FastLight/FastLight-Info.plist";
@@ -271,6 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				DEVELOPMENT_TEAM = 38X5WNVR2Q;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FastLight/FastLight-Prefix.pch";
 				INFOPLIST_FILE = "FastLight/FastLight-Info.plist";
